@@ -16,7 +16,7 @@
 
 ## 解决了什么问题
 * Query Decomposition&Embedding
-  * [ColBERT](paper/colbert.pdf)&[ColBERT V2](paper/colbert_v2.pdf)
+  * [ColBERT](paper/colbert.pdf)&[ColBERT V2](paper/colbert_v2.pdf) [ColBERT博客讲解](https://blog.csdn.net/weixin_44839084/article/details/139184272)
   * [KELDaR](paper/KELDaR.pdf)
   * **解决方案**: train a model for searching the decomposed sub-queries that can optimize the downstream performance
     * The search process is non-differentiable, as sub-queries cannot propagate gradients from the downstream performance score [LLM_optimizer](paper/LLM_optimizer.pdf)
