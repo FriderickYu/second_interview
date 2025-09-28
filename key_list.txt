@@ -1,0 +1,8 @@
+This paper was inspired by the following works, reading these papers will provide a comprehensive understanding of its background. 
+1.	ColBERT: Efficient and effective passage search via contextualized late interaction over bert
+2.	ColBERTv2: Effective and efficient retrieval via lightweight late interaction
+3.	KELDaR: A framework of knowledge graph-enhanced large language model based on question decomposition and atomic retrieval
+4.	ManyModalQA dataset: Modality disambiguation and qa over diverse inputs
+5.	Large language models as optimizers
+6.	Seven failure points when engineering a retrieval augmented generation system
+7.	µ-PL* condition and L-smoothness: Loss landscapes and optimization in over-parameterized non-linear systems and neural networks
